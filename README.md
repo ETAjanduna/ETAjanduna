@@ -2,11 +2,10 @@
 
 A passionate advocate for restorative justice reform, a budding cybersecurity
  enthusiast, and most recently, I’ve fallen in love with data science and
-
  machine learning. My goal is to bridge the gap between technology and social
  justice, exploring how tools like AI and data can drive meaningful change.
 
- ##🌍 Who Am I?
+ ## git🌍 Who Am I?
 
  •🔑 Restorative Justice Fanatic
 
@@ -35,10 +34,10 @@ Certificate in Computer and Data Science (Foundations Track)
 
 ## 🌟 Fun Facts About Me
 
-•✨ I have a soft spot for graphic design and love creating flyers
+•✨ I have a soft spot for graphic design and love creating flyers.
 
 •🧑‍🍳 Cooking is my therapy—I love experimenting with spices and making
-Ghanaian dishes
+Ghanaian dishes.
 
 •🎦 I am a cineast. Ask me the airing date of the next episode of your
 favorite series
