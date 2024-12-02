@@ -5,7 +5,7 @@ A passionate advocate for restorative justice reform, a budding cybersecurity
  machine learning. My goal is to bridge the gap between technology and social
  justice, exploring how tools like AI and data can drive meaningful change.
 
- ## git🌍 Who Am I?
+ ## 🌍 Who Am I?
 
  •🔑 Restorative Justice Fanatic
 
